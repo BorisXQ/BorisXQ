@@ -141,7 +141,7 @@
   <tr>
     <td align="center">&nbsp;</td>
     <td align="center">&nbsp;</td>
-    <td align="center"><a href="https://www.serverless.com/"><img src="https://skillicons.dev/icons?i=serverless" width="48" /></a></td>
+    <td align="center"><a href="https://www.serverless.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/serverless.svg" width="48" height="48" /></a></td>
     <td align="center"><a href="https://circleci.com/"><img src="https://skillicons.dev/icons?i=circleci" width="48" /></a></td>
     <td align="center"><a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="48" /></a></td>
     <td align="center"><a href="https://gradle.org/"><img src="https://skillicons.dev/icons?i=gradle" width="48" /></a></td>
