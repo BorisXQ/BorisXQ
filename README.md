@@ -1,151 +1,161 @@
-<h1 align="center">
-  Hi 👋, I'm Boris
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Web Developer
-</h3>
+# Boris
 
-<p align="center">
-Building modern web applications with JavaScript, PHP and MySQL.
-</p>
+### Full Stack Software Engineer
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00E6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;JavaScript+%7C+PHP+%7C+MySQL;React+Developer;Always+Learning+Something+New+🚀">
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Frontend
+Building scalable web applications with modern technologies.
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,sass,bootstrap,figma"/>
-
+  <a href="https://github.com/BorisXQ">
+    <img src="https://komarev.com/ghpvc/?username=BorisXQ&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
-### Backend
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Engineer;JavaScript+%7C+PHP+%7C+MySQL;Building+Conlink+Messenger;Clean+Architecture+%E2%80%A2+Performance+%E2%80%A2+Security">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,firebase"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,linux"/>
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# About Me
 
-<p align="center">
+I'm a Full Stack Developer focused on building modern, scalable and reliable web applications.
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+Currently working on **Conlink Messenger** — a modern messaging platform designed with simplicity, performance and security in mind.
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+My primary interests include:
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Backend Architecture
+- Frontend Development
+- REST APIs
+- Performance Optimization
+- Database Design
+- Modern UI/UX
 
 ---
 
-# 🚀 Current Stack
+# Tech Stack
 
-```text
-Frontend
-███████████████████ HTML
-███████████████████ CSS
-██████████████████░ JavaScript
-███████████████░░░ React
+<div align="center">
 
-Backend
-████████████████░░ PHP
-██████████████░░░░ MySQL
-████████████░░░░░░ REST API
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,php,mysql,nodejs,git,github,vscode,linux,figma,npm&perline=8"/>
 
-Tools
-██████████████████ Git
-████████████████░░ GitHub
-███████████████░░░ VS Code
-```
+</div>
 
 ---
 
-# 🌟 Featured Projects
+# GitHub Statistics
 
-🚀 Conlink Messenger
+<div align="center">
 
-Modern cross-platform messenger.
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=BorisXQ&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-• Authentication
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisXQ&layout=compact&theme=github_dark&hide_border=true"/>
 
-• Chats
-
-• Groups
-
-• File Sharing
-
-• Modern UI
+</div>
 
 ---
 
-# 📈 Activity Graph
+# GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=BorisXQ&theme=github-dark-blue&hide_border=true"/>
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
+</div>
 
 ---
 
-# 📫 Contact
+# Contribution Graph
 
-<p>
+<div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BorisXQ&theme=github-dark&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</div>
 
+---
+
+# Current Project
+
+## Conlink Messenger
+
+A modern messenger focused on speed, reliability and security.
+
+### Features
+
+- Authentication
+- Private Messaging
+- Group Chats
+- File Sharing
+- Responsive Design
+- REST API
+- Modern UI
+- Fast Performance
+
+### Stack
+
+- JavaScript
+- React
+- PHP
+- MySQL
+- HTML5
+- CSS3
+
+---
+
+# Engineering Principles
+
+- Clean Code
+- Performance First
+- Scalability
+- Simplicity
+- Security
+- Readable Architecture
+
+---
+
+# Development Environment
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | HTML5, CSS3, JavaScript, TypeScript, React |
+| Backend | PHP, REST API |
+| Database | MySQL |
+| Tools | Git, GitHub, VS Code, Figma |
+| Operating System | Linux, Windows |
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BorisXQ&theme=algolia&no-frame=true&margin-w=15&row=1"/>
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://github.com/BorisXQ">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:example@mail.com">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
-
+<a href="https://conlink.org">
+<img src="https://img.shields.io/badge/Conlink-0095ff?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+*"Great software is built through simplicity, consistency and continuous improvement."*
+
+</div>
