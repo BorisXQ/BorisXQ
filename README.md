@@ -76,11 +76,7 @@
     <td align="center"><a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" width="48" /></a></td>
   </tr>
   <tr>
-    <td align="center">
-  <a href="https://playwright.dev/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/playwright.svg" width="48" height="48" />
-  </a>
-</td>
+    <td align="center"><a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/playwright.svg" width="48" height="48" /></a></td>
     <td align="center"><a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="48" /></a></td>
     <td align="center"><a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /></a></td>
     <td align="center"><a href="https://www.ansible.com/"><img src="https://skillicons.dev/icons?i=ansible" width="48" /></a></td>
