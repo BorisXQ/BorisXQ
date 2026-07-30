@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGQxMTE3Ii8+CiAgICAgIDxzdG9wIG9ZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxMzI0MzMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3ciIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjUwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM1OGE2ZmYyMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAwMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNiZykiLz4KICA8Y2lyY2xlIGN4PSI2MDAiIGN5PSIxNTAiIHI9IjgwIiBmaWxsPSJ1cmwoI2dsb3cpIiBvcGFjaXR5PSIwLjQiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjE7MC40OzAuMSIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI3MCIgcj0iNTAiIGZpbGw9InVybCgjZ2xvdykiIG9wYWNpdHk9IjAuMyI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeCIgdmFsdWVzPSIxNTA7MjUwOzE1MCIgZHVyPSI2cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjYwOzgwOzYwIiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgogIDxwYXRoIGQ9Ik0wIDIwMCBDMjAwIDE1MCw2MDAgI1N0cm9rZT0iIzU4YTZmZiIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBvcGFjaXR5PSIwLjIiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLWRhc2hvZmZzZXQiIHZhbHVlcz0iMTAwMDswIiBkdXI9IjEwcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3BhdGg+Cjwvc3ZnPg==" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGQxMTE3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzEzMjQzMyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdyIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNTAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzU4YTZmZjIwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwMDAwMDAwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2JnKSIvPgogIDxjaXJjbGUgY3g9IjYwMCIgY3k9IjE1MCIgcj0iODAiIGZpbGw9InVybCgjZ2xvdykiIG9wYWNpdHk9IjAuNCI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuMTswLjQ7MC4xIiBkdXI9IjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjcwIiByPSI1MCIgZmlsbD0idXJsKCNnbG93KSIgb3BhY2l0eT0iMC4zIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjE1MDsyNTA7MTUwIiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIHZhbHVlcz0iNjA7ODA7NjAiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9jaXJjbGU+CiAgPHBhdGggZD0iTTAgMjAwIEMyMDAgMTUwLDYwMCAxMDAsODAwIDE4MCIgc3Ryb2tlPSIjNThhNmZmIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjAuMiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdHJva2UtZGFzaG9mZnNldCIgdmFsdWVzPSIxMDAwOzAiIGR1cj0iMTBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvcGF0aD4KPC9zdmc+" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
 </p>
 
 <div align="center">
@@ -41,93 +41,205 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-00d4ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117&color=00d4ff" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,svelte,vite,webpack,babel,tailwind,bootstrap,materialui&perline=7" />
-</p>
+<!-- FRONTEND -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><img src="https://img.shields.io/badge/Frontend-00d4ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117&color=00d4ff" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" /></a></td>
+    <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48" /></a></td>
+    <td align="center"><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="48" /></a></td>
+    <td align="center"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /></a></td>
+    <td align="center"><a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular" width="48" /></a></td>
+    <td align="center"><a href="https://svelte.dev/"><img src="https://skillicons.dev/icons?i=svelte" width="48" /></a></td>
+    <td align="center"><a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="48" /></a></td>
+    <td align="center"><a href="https://webpack.js.org/"><img src="https://skillicons.dev/icons?i=webpack" width="48" /></a></td>
+    <td align="center"><a href="https://babeljs.io/"><img src="https://skillicons.dev/icons?i=babel" width="48" /></a></td>
+    <td align="center"><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="48" /></a></td>
+    <td align="center"><a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="7"><a href="https://mui.com/"><img src="https://skillicons.dev/icons?i=materialui" width="48" /></a></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-7b2ff7?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117&color=7b2ff7" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,java,kotlin,go,rust,c,cpp,cs,dotnet,graphql&perline=7" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Databases-58a6ff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117&color=58a6ff" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase&perline=7" />
-</p>
+<!-- BACKEND -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><img src="https://img.shields.io/badge/Backend-7b2ff7?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117&color=7b2ff7" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /></a></td>
+    <td align="center"><a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="48" /></a></td>
+    <td align="center"><a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="48" /></a></td>
+    <td align="center"><a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="48" /></a></td>
+    <td align="center"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" /></a></td>
+    <td align="center"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="48" /></a></td>
+    <td align="center"><a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="48" /></a></td>
+    <td align="center"><a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="48" /></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" width="48" /></a></td>
+    <td align="center"><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="48" /></a></td>
+    <td align="center"><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" width="48" /></a></td>
+    <td align="center"><a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" width="48" /></a></td>
+    <td align="center"><a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" width="48" /></a></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-00d4ff?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117&color=00d4ff" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,netlify,heroku,digitalocean&perline=7" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps-7b2ff7?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117&color=7b2ff7" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,ubuntu,git,github,githubactions,gitlab,ansible,terraform&perline=7" />
-</p>
+<!-- DATABASES -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><img src="https://img.shields.io/badge/Databases-58a6ff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117&color=58a6ff" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" /></a></td>
+    <td align="center"><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48" /></a></td>
+    <td align="center"><a href="https://sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="48" /></a></td>
+    <td align="center"><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /></a></td>
+    <td align="center"><a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="48" /></a></td>
+    <td align="center"><a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="48" /></a></td>
+    <td align="center"><a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="48" /></a></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools-58a6ff?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=58a6ff" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,photoshop,postman,insomnia,notion,slack&perline=7" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Testing-00d4ff?style=for-the-badge&logo=jest&logoColor=white&labelColor=0D1117&color=00d4ff" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,playwright&perline=7" />
-</p>
+<!-- CLOUD -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><img src="https://img.shields.io/badge/Cloud-00d4ff?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117&color=00d4ff" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="48" /></a></td>
+    <td align="center"><a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" width="48" /></a></td>
+    <td align="center"><a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="48" /></a></td>
+    <td align="center"><a href="https://cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" /></a></td>
+    <td align="center"><a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="48" /></a></td>
+    <td align="center"><a href="https://netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" width="48" /></a></td>
+    <td align="center"><a href="https://heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="7"><a href="https://www.digitalocean.com/"><img src="https://skillicons.dev/icons?i=digitalocean" width="48" /></a></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mobile-7b2ff7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117&color=7b2ff7" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative,androidstudio,kotlin&perline=7" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Design-58a6ff?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117&color=58a6ff" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,sketch,xd&perline=7" />
-</p>
+<!-- DEVOPS -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><img src="https://img.shields.io/badge/DevOps-7b2ff7?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117&color=7b2ff7" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" /></a></td>
+    <td align="center"><a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" /></a></td>
+    <td align="center"><a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" width="48" /></a></td>
+    <td align="center"><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" /></a></td>
+    <td align="center"><a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" /></a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" /></a></td>
+    <td align="center"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" /></a></td>
+    <td align="center"><a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" width="48" /></a></td>
+    <td align="center"><a href="https://www.ansible.com/"><img src="https://skillicons.dev/icons?i=ansible" width="48" /></a></td>
+    <td align="center"><a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" width="48" /></a></td>
+    <td align="center" colspan="3"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI/ML-00d4ff?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117&color=00d4ff" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=7" />
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Claude%20API-000000?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Package%20Managers-7b2ff7?style=for-the-badge&logo=npm&logoColor=white&labelColor=0D1117&color=7b2ff7" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn&perline=7" />
-</p>
+<!-- TOOLS -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><img src="https://img.shields.io/badge/Tools-58a6ff?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=58a6ff" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" /></a></td>
+    <td align="center"><a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" /></a></td>
+    <td align="center"><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" /></a></td>
+    <td align="center"><a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" width="48" /></a></td>
+    <td align="center"><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="48" /></a></td>
+    <td align="center"><a href="https://insomnia.rest/"><img src="https://skillicons.dev/icons?i=insomnia" width="48" /></a></td>
+    <td align="center"><a href="https://notion.so/"><img src="https://skillicons.dev/icons?i=notion" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="7"><a href="https://slack.com/"><img src="https://skillicons.dev/icons?i=slack" width="48" /></a></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/API-58a6ff?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117&color=58a6ff" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117" />
-</p>
+<br/>
+
+<!-- TESTING -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><img src="https://img.shields.io/badge/Testing-00d4ff?style=for-the-badge&logo=jest&logoColor=white&labelColor=0D1117&color=00d4ff" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" width="48" /></a></td>
+    <td align="center"><a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" width="48" /></a></td>
+    <td align="center"><a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" width="48" /></a></td>
+    <td align="center"><a href="https://playwright.dev/"><img src="https://skillicons.dev/icons?i=playwright" width="48" /></a></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- MOBILE -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><img src="https://img.shields.io/badge/Mobile-7b2ff7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117&color=7b2ff7" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="48" /></a></td>
+    <td align="center"><a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=reactnative" width="48" /></a></td>
+    <td align="center"><a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" /></a></td>
+    <td align="center"><a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" width="48" /></a></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- AI/ML -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><img src="https://img.shields.io/badge/AI%2FML-00d4ff?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117&color=00d4ff" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /></a></td>
+    <td align="center"><a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /></a></td>
+    <td align="center"><a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="48" /></a></td>
+    <td align="center"><a href="https://platform.openai.com/"><img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" /></a></td>
+    <td align="center"><a href="https://www.anthropic.com/index/claude"><img src="https://img.shields.io/badge/Claude%20API-000000?style=flat-square&logo=anthropic&logoColor=white" /></a></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- PACKAGE MANAGERS -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><img src="https://img.shields.io/badge/Package%20Managers-7b2ff7?style=for-the-badge&logo=npm&logoColor=white&labelColor=0D1117&color=7b2ff7" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" width="48" /></a></td>
+    <td align="center"><a href="https://pnpm.io/"><img src="https://skillicons.dev/icons?i=pnpm" width="48" /></a></td>
+    <td align="center"><a href="https://yarnpkg.com/"><img src="https://skillicons.dev/icons?i=yarn" width="48" /></a></td>
+  </tr>
+</table>
 
 <br/>
 
@@ -221,7 +333,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,docker,git,github,linux,postman&perline=7" />
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="48" /></a>
 </p>
 
 <br/>
@@ -273,5 +391,5 @@
 <br/>
 
 <p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTIwJSIgd2lkdGg9IjE0MCUiIGhlaWdodD0iMTQwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjQiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDx0ZXh0IHg9IjQwMCIgeT0iNTAiIGZpbGw9IiM1OGE2ZmYiIGZvbnQtZmFtaWx5PSInRmlyYSBDb2RlJywgbW9ub3NwYWNlIiBmb250LXNpemU9IjI4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iNjAwIiBmaWx0ZXI9InVybCgjZ2xvdykiPkxldCdzIGJ1aWxkIHNvbWV0aGluZyBncmVhdCDwn5KqPC90ZXh0Pgo8L3N2Zz4=" width="800" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTIwJSIgd2lkdGg9IjE0MCUiIGhlaWdodD0iMTQwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjQiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDx0ZXh0IHg9IjQwMCIgeT0iNTAiIGZpbGw9IiM1OGE2ZmYiIGZvbnQtZmFtaWx5PSInRmlyYSBDb2RlJywgbW9ub3NwYWNlIiBmb250LXNpemU9IjI4IiB0ZXh0LWFuY2hvcj0Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsdGVyPSJ1cmwoI2dsb3cpIj5MZXQncyBidWlsZCBzb21ldGhpbmcgZ3JlYXQg8J+SojwvdGV4dD4KPC9zdmc+" width="800" />
 </p>
