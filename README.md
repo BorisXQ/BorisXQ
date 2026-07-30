@@ -5,6 +5,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <table align="center">
+  <!-- Original 64 icons -->
   <tr>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" /></a></td>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" /></a></td>
@@ -84,5 +85,57 @@
     <td align="center"><a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="48" /></a></td>
     <td align="center"><a href="https://netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" width="48" /></a></td>
     <td align="center"><a href="https://heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" width="48" /></a></td>
+  </tr>
+
+  <!-- Additional 36 icons to reach 100 -->
+  <tr>
+    <td align="center"><a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="48" /></a></td>
+    <td align="center"><a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="48" /></a></td>
+    <td align="center"><a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="48" /></a></td>
+    <td align="center"><a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="48" /></a></td>
+    <td align="center"><a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="48" /></a></td>
+    <td align="center"><a href="https://rubyonrails.org/"><img src="https://skillicons.dev/icons?i=rails" width="48" /></a></td>
+    <td align="center"><a href="https://www.ruby-lang.org/"><img src="https://skillicons.dev/icons?i=ruby" width="48" /></a></td>
+    <td align="center"><a href="https://elixir-lang.org/"><img src="https://skillicons.dev/icons?i=elixir" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://deno.land/"><img src="https://skillicons.dev/icons?i=deno" width="48" /></a></td>
+    <td align="center"><a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=reactnative" width="48" /></a></td>
+    <td align="center"><a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" width="48" /></a></td>
+    <td align="center"><a href="https://tauri.app/"><img src="https://skillicons.dev/icons?i=tauri" width="48" /></a></td>
+    <td align="center"><a href="https://httpd.apache.org/"><img src="https://skillicons.dev/icons?i=apache" width="48" /></a></td>
+    <td align="center"><a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" width="48" /></a></td>
+    <td align="center"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" /></a></td>
+    <td align="center"><a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://bitbucket.org/"><img src="https://skillicons.dev/icons?i=bitbucket" width="48" /></a></td>
+    <td align="center"><a href="https://www.digitalocean.com/"><img src="https://skillicons.dev/icons?i=digitalocean" width="48" /></a></td>
+    <td align="center"><a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="48" /></a></td>
+    <td align="center"><a href="https://circleci.com/"><img src="https://skillicons.dev/icons?i=circleci" width="48" /></a></td>
+    <td align="center"><a href="https://www.travis-ci.com/"><img src="https://skillicons.dev/icons?i=travisci" width="48" /></a></td>
+    <td align="center"><a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" width="48" /></a></td>
+    <td align="center"><a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" width="48" /></a></td>
+    <td align="center"><a href="https://www.elastic.co/elasticsearch/"><img src="https://skillicons.dev/icons?i=elasticsearch" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="48" /></a></td>
+    <td align="center"><a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="48" /></a></td>
+    <td align="center"><a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="48" /></a></td>
+    <td align="center"><a href="https://keras.io/"><img src="https://skillicons.dev/icons?i=keras" width="48" /></a></td>
+    <td align="center"><a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="48" /></a></td>
+    <td align="center"><a href="https://getcomposer.org/"><img src="https://skillicons.dev/icons?i=composer" width="48" /></a></td>
+    <td align="center"><a href="https://www.nuget.org/"><img src="https://skillicons.dev/icons?i=nuget" width="48" /></a></td>
+    <td align="center"><a href="https://gradle.org/"><img src="https://skillicons.dev/icons?i=gradle" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven" width="48" /></a></td>
+    <td align="center"><a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" /></a></td>
+    <td align="center"><a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" width="48" /></a></td>
+    <td align="center"><a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=markdown" width="48" /></a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
