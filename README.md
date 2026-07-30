@@ -135,13 +135,13 @@
     <td align="center"><a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="48" /></a></td>
     <td align="center"><a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm" width="48" /></a></td>
     <td align="center"><a href="https://www.jetbrains.com/phpstorm/"><img src="https://skillicons.dev/icons?i=phpstorm" width="48" /></a></td>
-    <td align="center"><a href="https://www.jetbrains.com/ruby/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rubymine.svg" width="48" height="48" /></a></td>
+    <td align="center"><a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse" width="48" /></a></td>
   </tr>
-  <!-- Row 13: DevOps extras (4 icons centered with non-breaking spaces in empty cells) -->
+  <!-- Row 13: DevOps extras (4 icons, rest empty but stable) -->
   <tr>
     <td align="center">&nbsp;</td>
     <td align="center">&nbsp;</td>
-    <td align="center"><a href="https://www.serverless.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/serverless.svg" width="48" height="48" /></a></td>
+    <td align="center"><a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="48" /></a></td>
     <td align="center"><a href="https://circleci.com/"><img src="https://skillicons.dev/icons?i=circleci" width="48" /></a></td>
     <td align="center"><a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="48" /></a></td>
     <td align="center"><a href="https://gradle.org/"><img src="https://skillicons.dev/icons?i=gradle" width="48" /></a></td>
