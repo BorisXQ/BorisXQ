@@ -137,13 +137,15 @@
     <td align="center"><a href="https://www.jetbrains.com/phpstorm/"><img src="https://skillicons.dev/icons?i=phpstorm" width="48" /></a></td>
     <td align="center"><a href="https://www.jetbrains.com/ruby/"><img src="https://skillicons.dev/icons?i=rubymine" width="48" /></a></td>
   </tr>
-  <!-- Row 13: DevOps extras (4 icons, centered) -->
+  <!-- Row 13: DevOps extras (4 icons centered without colspan) -->
   <tr>
-    <td align="center" colspan="2"></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"><a href="https://www.serverless.com/"><img src="https://skillicons.dev/icons?i=serverless" width="48" /></a></td>
     <td align="center"><a href="https://circleci.com/"><img src="https://skillicons.dev/icons?i=circleci" width="48" /></a></td>
     <td align="center"><a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="48" /></a></td>
     <td align="center"><a href="https://gradle.org/"><img src="https://skillicons.dev/icons?i=gradle" width="48" /></a></td>
-    <td align="center" colspan="2"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
